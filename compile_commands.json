@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/zakariyya/Programming/Tutorials/Joeler/bin",
+  "command": "/usr/bin/c++  -I/home/zakariyya/Programming/Tutorials/Joeler/imgui -I/home/zakariyya/Programming/Tutorials/Joeler/include  -o CMakeFiles/Joeler.dir/src/main.cpp.o -c /home/zakariyya/Programming/Tutorials/Joeler/src/main.cpp",
+  "file": "/home/zakariyya/Programming/Tutorials/Joeler/src/main.cpp",
+  "output": "CMakeFiles/Joeler.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/zakariyya/Programming/Tutorials/Joeler/bin",
+  "command": "/usr/bin/c++  -I/home/zakariyya/Programming/Tutorials/Joeler/imgui -I/home/zakariyya/Programming/Tutorials/Joeler/include  -o CMakeFiles/Joeler.dir/imgui/imgui.cpp.o -c /home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui.cpp",
+  "file": "/home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui.cpp",
+  "output": "CMakeFiles/Joeler.dir/imgui/imgui.cpp.o"
+},
+{
+  "directory": "/home/zakariyya/Programming/Tutorials/Joeler/bin",
+  "command": "/usr/bin/c++  -I/home/zakariyya/Programming/Tutorials/Joeler/imgui -I/home/zakariyya/Programming/Tutorials/Joeler/include  -o CMakeFiles/Joeler.dir/imgui/imgui_demo.cpp.o -c /home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_demo.cpp",
+  "file": "/home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_demo.cpp",
+  "output": "CMakeFiles/Joeler.dir/imgui/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/zakariyya/Programming/Tutorials/Joeler/bin",
+  "command": "/usr/bin/c++  -I/home/zakariyya/Programming/Tutorials/Joeler/imgui -I/home/zakariyya/Programming/Tutorials/Joeler/include  -o CMakeFiles/Joeler.dir/imgui/imgui_draw.cpp.o -c /home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_draw.cpp",
+  "file": "/home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/Joeler.dir/imgui/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/zakariyya/Programming/Tutorials/Joeler/bin",
+  "command": "/usr/bin/c++  -I/home/zakariyya/Programming/Tutorials/Joeler/imgui -I/home/zakariyya/Programming/Tutorials/Joeler/include  -o CMakeFiles/Joeler.dir/imgui/imgui_widgets.cpp.o -c /home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_widgets.cpp",
+  "file": "/home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/Joeler.dir/imgui/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/zakariyya/Programming/Tutorials/Joeler/bin",
+  "command": "/usr/bin/c++  -I/home/zakariyya/Programming/Tutorials/Joeler/imgui -I/home/zakariyya/Programming/Tutorials/Joeler/include  -o CMakeFiles/Joeler.dir/imgui/imgui_tables.cpp.o -c /home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_tables.cpp",
+  "file": "/home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/Joeler.dir/imgui/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/zakariyya/Programming/Tutorials/Joeler/bin",
+  "command": "/usr/bin/c++  -I/home/zakariyya/Programming/Tutorials/Joeler/imgui -I/home/zakariyya/Programming/Tutorials/Joeler/include  -o CMakeFiles/Joeler.dir/imgui/imgui_impl_sdlrenderer2.cpp.o -c /home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_impl_sdlrenderer2.cpp",
+  "file": "/home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_impl_sdlrenderer2.cpp",
+  "output": "CMakeFiles/Joeler.dir/imgui/imgui_impl_sdlrenderer2.cpp.o"
+},
+{
+  "directory": "/home/zakariyya/Programming/Tutorials/Joeler/bin",
+  "command": "/usr/bin/c++  -I/home/zakariyya/Programming/Tutorials/Joeler/imgui -I/home/zakariyya/Programming/Tutorials/Joeler/include  -o CMakeFiles/Joeler.dir/imgui/imgui_impl_sdl2.cpp.o -c /home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_impl_sdl2.cpp",
+  "file": "/home/zakariyya/Programming/Tutorials/Joeler/imgui/imgui_impl_sdl2.cpp",
+  "output": "CMakeFiles/Joeler.dir/imgui/imgui_impl_sdl2.cpp.o"
+}
+]
