@@ -2,7 +2,11 @@ cmake_minimum_required(VERSION 3.5)
 project(Joeler)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-set(SOURCES src/main.cpp)
+set(SOURCES 
+    src/window.cpp
+    src/main.cpp
+)
+
 set(IMGUI_SOURCES
   ./imgui/imgui.cpp
   ./imgui/imgui_demo.cpp
@@ -12,6 +16,7 @@ set(IMGUI_SOURCES
   ./imgui/imgui_impl_sdlrenderer2.cpp
   ./imgui/imgui_impl_sdl2.cpp
 )
+
 include_directories(imgui)
 include_directories(include)
 
